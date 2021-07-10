@@ -1,0 +1,70 @@
+
+[
+    {
+        "slno":"1",
+        "Name":"eggs",
+        "Quantity":"1",
+        "unit":"no",
+        "dept":"meat",
+        "notes":"buy good"
+    },
+    {
+        "slno":"2",
+        "Name":"potatto",
+        "Quantity":"1",
+        "unit":"kg",
+        "dept":"vegitable",
+        "notes":"fresh"
+    },
+    {
+        "slno":"3",
+        "Name":"carrot",
+        "Quantity":"1",
+        "unit":"kg",
+        "dept":"vegitable",
+        "notes":"fresh"
+    },
+    {
+        "slno":"4",
+        "Name":"rice",
+        "Quantity":"1",
+        "unit":"kg",
+        "dept":"rice",
+        "notes":"basmathi"
+    },
+    {
+        "slno":"5",
+        "Name":"oil",
+        "Quantity":"1",
+        "unit":"litre",
+        "dept":"oil",
+        "notes":"Akshaya"
+    },
+    {
+        "slno":"6",
+        "Name":"milk",
+        "Quantity":"2",
+        "unit":"no",
+        "dept":"milk",
+        "notes":"milma"
+    },
+    {
+        "slno":"7",
+        "Name":"grape",
+        "Quantity":"2",
+        "unit":"kg",
+        "dept":"fruit",
+        "notes":"milma"
+    },
+    {
+        "slno":"8",
+        "Name":"oil",
+        "Quantity":"2",
+        "unit":"litre",
+        "dept":"oil",
+        "notes":"sunflower"
+    }
+
+
+
+]
